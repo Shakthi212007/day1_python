@@ -10,7 +10,7 @@ A simple program using print to display output.
 Performs basic arithmetic operations
 
 # What I learned
-  Variables
-  Conditional statements
+  -Variables
+  -Conditional statements
 
 
