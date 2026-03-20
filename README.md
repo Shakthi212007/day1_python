@@ -1,9 +1,16 @@
-#Day 1
-01_hello_world.py-first python program using print()
+# Python Mini Projects
 
-##program 
-Hello World
+This repository contains basic python projects created during 
+my learning journey.
 
-#Day 2 
-02_calculator.py-simple calculator using variables and
-conditions
+## 1. Hello world
+A simple program using print to display output.
+
+## 2. Simple calculator 
+Performs basic arithmetic operations
+
+# What I learned
+  Variables
+  Conditional statements
+
+
